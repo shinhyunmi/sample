@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>test.jsp</title>
 </head>
 <body>
-
+<div class="container">
+	<h1>테스트 페이지 입니다.</h1>
+</div>
 </body>
 </html>
